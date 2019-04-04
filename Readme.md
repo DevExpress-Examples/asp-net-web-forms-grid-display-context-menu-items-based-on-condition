@@ -1,11 +1,11 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Client-side.aspx](./CS/Client-side.aspx) (VB: [Client-side.aspx.vb](./VB/Client-side.aspx.vb))
+* [Client-side.aspx](./CS/Client-side.aspx) (VB: [Client-side.aspx](./VB/Client-side.aspx))
 * [Client-side.aspx.cs](./CS/Client-side.aspx.cs) (VB: [Client-side.aspx.vb](./VB/Client-side.aspx.vb))
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
-* [Server-side.aspx](./CS/Server-side.aspx) (VB: [Server-side.aspx.vb](./VB/Server-side.aspx.vb))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Server-side.aspx](./CS/Server-side.aspx) (VB: [Server-side.aspx](./VB/Server-side.aspx))
 * [Server-side.aspx.cs](./CS/Server-side.aspx.cs) (VB: [Server-side.aspx.vb](./VB/Server-side.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Change visibility or disable context menu items based on selected row data
