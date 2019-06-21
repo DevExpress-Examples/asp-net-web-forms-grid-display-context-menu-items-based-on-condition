@@ -9,6 +9,9 @@
 * [Server-side.aspx.cs](./CS/Server-side.aspx.cs) (VB: [Server-side.aspx.vb](./VB/Server-side.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Change visibility or disable context menu items based on selected row data
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t120218/)**
+<!-- run online end -->
 
 
 <p>There are two general approaches: server-side and client-side. In both cases, firstly, it's necessary to create all of the menu items using the <a href="https://documentation.devexpress.com/AspNet/DevExpressWebASPxGridViewASPxGridView_FillContextMenuItemstopic.aspx">ASPxGridView.FillContextMenuItems</a> event. After that, some of menu items can be made invisible or disabled depending on certain conditions. </p>
