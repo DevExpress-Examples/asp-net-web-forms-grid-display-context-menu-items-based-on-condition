@@ -1,4 +1,4 @@
-﻿using DevExpress.Web.ASPxGridView;
+﻿using DevExpress.Web;
 using System.Collections.Generic;
 using System.Web.UI;
 

@@ -1,5 +1,5 @@
 ﻿Imports Microsoft.VisualBasic
-Imports DevExpress.Web.ASPxGridView
+Imports DevExpress.Web
 Imports System.Collections.Generic
 Imports System.Web.UI
 
