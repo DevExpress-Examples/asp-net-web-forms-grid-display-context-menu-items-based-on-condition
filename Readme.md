@@ -13,7 +13,7 @@ In this example, the context menu has three items:
 
 1. The first item is always visible and enabled.
 2. The second item is enabled, but visible only for selected rows.
-3. The third item is always visible, but enabled only for selected rows that have the checked chekbox in the **Discontinued** column.
+3. The third item is always visible, but enabled only for selected rows that have a checked checkbox in the **Discontinued** column.
 
 To create context menu items, handle the grid's [FillContextMenuItems](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridViewFillContextMenuItemsEventHandler) event. To enable/disable and show/hide menu items, use the client-side or server-side approach.
 
