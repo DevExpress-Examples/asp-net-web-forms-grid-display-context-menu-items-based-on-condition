@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/t120218/)**
 <!-- run online end -->
 
-This example demonstrate how to create context menu items and enable/disable or show/hide them on the client or on the server.
+This example demonstrate how to create context menu items and enable/disable or show/hide them on the client or server.
 
 ![Context menu items](contextMenuItems.png)
 
