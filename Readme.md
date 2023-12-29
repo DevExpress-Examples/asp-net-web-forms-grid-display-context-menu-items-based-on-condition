@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Grid View for ASP.NET Web Forms - Enable or disable context menu items and change their visibility based on selected row data
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128533088/)**
-<!-- run online end -->
 
 This example demonstrate how to create context menu items and enable/disable or show/hide them on the client or server.
 
